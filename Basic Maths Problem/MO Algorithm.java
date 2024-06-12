@@ -1,4 +1,3 @@
-
 import java.util.*;
 class Query{ 
 	int L; 
@@ -8,8 +7,7 @@ class Query{
 		this.R = R;
 	}
 } 
-
-class GFG
+class Main
 {
 	static void printQuerySums(int a[], int n, ArrayList<Query> q, int m)
 	{
