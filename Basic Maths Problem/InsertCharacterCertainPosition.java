@@ -20,7 +20,7 @@ public static String addStars(String s, int stars[])
 }
 public static void main(String[] args)
 {
-	String str = "geeksforgeeks";
+	String str = "happycoding";
 	int chars[] = { 1, 5, 7, 9 };
 	String ans = addStars(str, chars);
 	System.out.println(ans);
